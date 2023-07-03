@@ -1,6 +1,16 @@
 # Eth-Advance-3
 
-Contract Audit Report
+This is the project where we need to find the security flaws of the old_contract and fix it into creating a new_contract with ^0.8.0 compiler version.
+
+## Getting Started
+
+### Executing the Program
+
+You can check all the vulnerabilities in the audit report below and fix it with the specified and then run it on remix to check the functionality.
+
+### Audit Report
+
+####Contract Audit Report
 
 Contract: StorageVictim
 
